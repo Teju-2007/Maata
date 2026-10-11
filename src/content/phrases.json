@@ -1,0 +1,452 @@
+[
+  {
+    "level": "Beginner",
+    "category": "Greetings",
+    "telish": "Ela unnavu?",
+    "english": "How are you?",
+    "hint_parchment": "Question lo 'are' vadali: you are.",
+    "telugu": "ఎలా ఉన్నావు?",
+    "audio_text": "How are you?"
+  },
+  {
+    "level": "Beginner",
+    "category": "Greetings",
+    "telish": "Nenu bagunnanu.",
+    "english": "I am fine.",
+    "hint_parchment": "I tho 'am' use cheyyali.",
+    "telugu": "నేను బాగున్నాను.",
+    "audio_text": "I am fine."
+  },
+  {
+    "level": "Beginner",
+    "category": "Home",
+    "telish": "Idi naa illu.",
+    "english": "This is my house.",
+    "hint_parchment": "Singular 'this' tho 'is' vastundi.",
+    "telugu": "ఇది నా ఇల్లు.",
+    "audio_text": "This is my house."
+  },
+  {
+    "level": "Beginner",
+    "category": "Food",
+    "telish": "Naaku neellu kaavaali.",
+    "english": "I want water.",
+    "hint_parchment": "I want + thing. 'Water' count cheyyalemu.",
+    "telugu": "నాకు నీళ్లు కావాలి.",
+    "audio_text": "I want water."
+  },
+  {
+    "level": "Beginner",
+    "category": "Family",
+    "telish": "Aame naa talli.",
+    "english": "She is my mother.",
+    "hint_parchment": "She tho 'is' vadali.",
+    "telugu": "ఆమె నా తల్లి.",
+    "audio_text": "She is my mother."
+  },
+  {
+    "level": "Beginner",
+    "category": "Daily life",
+    "telish": "Nenu intiki velthunnanu.",
+    "english": "I am going home.",
+    "hint_parchment": "I am + verb-ing ante ippudu jarugutondi.",
+    "telugu": "నేను ఇంటికి వెళ్తున్నాను.",
+    "audio_text": "I am going home."
+  },
+  {
+    "level": "Beginner",
+    "category": "Daily life",
+    "telish": "Atanu pani chestunnadu.",
+    "english": "He is working.",
+    "hint_parchment": "He tho 'is'; work ki -ing add cheyyali.",
+    "telugu": "అతను పని చేస్తున్నాడు.",
+    "audio_text": "He is working."
+  },
+  {
+    "level": "Beginner",
+    "category": "Time",
+    "telish": "Ee roju somavaaram.",
+    "english": "Today is Monday.",
+    "hint_parchment": "Days of the week capital letter tho start avuthayi.",
+    "telugu": "ఈ రోజు సోమవారం.",
+    "audio_text": "Today is Monday."
+  },
+  {
+    "level": "Beginner",
+    "category": "Food",
+    "telish": "Naaku tea ishtam.",
+    "english": "I like tea.",
+    "hint_parchment": "I like ani cheppali; 'am like' kaadu.",
+    "telugu": "నాకు టీ ఇష్టం.",
+    "audio_text": "I like tea."
+  },
+  {
+    "level": "Beginner",
+    "category": "Greetings",
+    "telish": "Dhanyavaadaalu.",
+    "english": "Thank you.",
+    "hint_parchment": "Idi polite thank-you expression.",
+    "telugu": "ధన్యవాదాలు.",
+    "audio_text": "Thank you."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Routine",
+    "telish": "Aame prati udayam nadustundi.",
+    "english": "She walks every morning.",
+    "hint_parchment": "She/he/it tho present verb ki usually -s vastundi.",
+    "telugu": "ఆమె ప్రతి ఉదయం నడుస్తుంది.",
+    "audio_text": "She walks every morning."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Routine",
+    "telish": "Vaaru bassu kosam eduru choostunnaru.",
+    "english": "They are waiting for the bus.",
+    "hint_parchment": "They are + verb-ing. 'Wait for' ane phrase gurthupettuko.",
+    "telugu": "వారు బస్సు కోసం ఎదురు చూస్తున్నారు.",
+    "audio_text": "They are waiting for the bus."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Past tense",
+    "telish": "Nenu ninna market-ku vellanu.",
+    "english": "I went to the market yesterday.",
+    "hint_parchment": "Go yokka past form 'went'.",
+    "telugu": "నేను నిన్న మార్కెట్‌కు వెళ్లాను.",
+    "audio_text": "I went to the market yesterday."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Past tense",
+    "telish": "Atanu naaku phone chesaadu.",
+    "english": "He called me.",
+    "hint_parchment": "Past lo call + ed = called.",
+    "telugu": "అతను నాకు ఫోన్ చేశాడు.",
+    "audio_text": "He called me."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Future",
+    "telish": "Memu repu vastaamu.",
+    "english": "We will come tomorrow.",
+    "hint_parchment": "Future kosam will + base verb use cheyyali.",
+    "telugu": "మేము రేపు వస్తాము.",
+    "audio_text": "We will come tomorrow."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Questions",
+    "telish": "Meeru ekkada nivasistunnaru?",
+    "english": "Where do you live?",
+    "hint_parchment": "Simple present question: Where do + you + verb.",
+    "telugu": "మీరు ఎక్కడ నివసిస్తున్నారు?",
+    "audio_text": "Where do you live?"
+  },
+  {
+    "level": "Intermediate",
+    "category": "Questions",
+    "telish": "Aameku coffee ishtama?",
+    "english": "Does she like coffee?",
+    "hint_parchment": "She tho question lo 'does'; tarvata verb base form lo untundi.",
+    "telugu": "ఆమెకు కాఫీ ఇష్టమా?",
+    "audio_text": "Does she like coffee?"
+  },
+  {
+    "level": "Intermediate",
+    "category": "Daily life",
+    "telish": "Varsham padutondi, godugu teesuko.",
+    "english": "It is raining; take an umbrella.",
+    "hint_parchment": "Weather ki 'it'; raining ki -ing.",
+    "telugu": "వర్షం పడుతోంది, గొడుగు తీసుకో.",
+    "audio_text": "It is raining; take an umbrella."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Family",
+    "telish": "Naa sodarudu English nerchukuntunnadu.",
+    "english": "My brother is learning English.",
+    "hint_parchment": "ఒక వ్యక్తి kabatti 'is learning'.",
+    "telugu": "నా సోదరుడు ఇంగ్లీష్ నేర్చుకుంటున్నాడు.",
+    "audio_text": "My brother is learning English."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Routine",
+    "telish": "Memu saadhaarananga aaru gantlaku lesthaamu.",
+    "english": "We usually wake up at six o'clock.",
+    "hint_parchment": "'Usually' habit ni cheptundi. Exact time mundu 'at'.",
+    "telugu": "మేము సాధారణంగా ఆరు గంటలకు లేస్తాము.",
+    "audio_text": "We usually wake up at six o'clock."
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Requests",
+    "telish": "Dayachesi talupu moosthaara?",
+    "english": "Could you please close the door?",
+    "hint_parchment": "Polite request ki 'Could you please…?' chala manchidi.",
+    "telugu": "దయచేసి తలుపు మూసివేస్తారా?",
+    "audio_text": "Could you please close the door?"
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Conversation",
+    "telish": "Meeku ela sahaayam cheyagalanu?",
+    "english": "How can I help you?",
+    "hint_parchment": "Can tarvata verb base form: can help.",
+    "telugu": "మీకు ఎలా సహాయం చేయగలను?",
+    "audio_text": "How can I help you?"
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Cooking",
+    "telish": "Nenu bhojanam vandutunnanu.",
+    "english": "I am cooking dinner.",
+    "hint_parchment": "I am + cooking. 'Dinner' evening meal.",
+    "telugu": "నేను భోజనం వండుతున్నాను.",
+    "audio_text": "I am cooking dinner."
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Health",
+    "telish": "Naaku konchem vishraanti kaavaali.",
+    "english": "I need some rest.",
+    "hint_parchment": "Need + thing. 'Some rest' natural phrase.",
+    "telugu": "నాకు కొంచెం విశ్రాంతి కావాలి.",
+    "audio_text": "I need some rest."
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Shopping",
+    "telish": "Deeni dhara entha?",
+    "english": "How much does this cost?",
+    "hint_parchment": "Cost gurinchi adigithe 'How much does this cost?' ani adagachu.",
+    "telugu": "దీని ధర ఎంత?",
+    "audio_text": "How much does this cost?"
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Travel",
+    "telish": "Railu eppudu bayaluderutundi?",
+    "english": "When does the train leave?",
+    "hint_parchment": "Train = it kabatti 'does'; leave base form lo untundi.",
+    "telugu": "రైలు ఎప్పుడు బయలుదేరుతుంది?",
+    "audio_text": "When does the train leave?"
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Conversation",
+    "telish": "Nenu meetho ekee bhavistunnanu.",
+    "english": "I agree with you.",
+    "hint_parchment": "English lo 'agree with someone' antaru.",
+    "telugu": "నేను మీతో ఏకీభవిస్తున్నాను.",
+    "audio_text": "I agree with you."
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Plans",
+    "telish": "Manam kalisi repu bhojanam cheddaam.",
+    "english": "Let's have lunch together tomorrow.",
+    "hint_parchment": "Let's + base verb oka suggestion ni cheptundi.",
+    "telugu": "మనం కలిసి రేపు భోజనం చేద్దాం.",
+    "audio_text": "Let's have lunch together tomorrow."
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Past tense",
+    "telish": "Nenu intaku mundu aa cinema choosaanu.",
+    "english": "I have seen that movie before.",
+    "hint_parchment": "Experience cheppadaniki I have + past participle.",
+    "telugu": "నేను ఇంతకు ముందు ఆ సినిమా చూశాను.",
+    "audio_text": "I have seen that movie before."
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Feelings",
+    "telish": "Ee roju naaku chaala santoshamga undi.",
+    "english": "I feel very happy today.",
+    "hint_parchment": "I feel + adjective. 'Happy' feeling ni vivaristundi.",
+    "telugu": "ఈ రోజు నాకు చాలా సంతోషంగా ఉంది.",
+    "audio_text": "I feel very happy today."
+  },
+  {
+    "level": "Beginner",
+    "category": "At home",
+    "telish": "Dayachesi koorchondi.",
+    "english": "Please sit down.",
+    "hint_parchment": "Polite requests often begin with “please”.",
+    "telugu": "దయచేసి కూర్చోండి.",
+    "audio_text": "Please sit down."
+  },
+  {
+    "level": "Beginner",
+    "category": "Family",
+    "telish": "Naa peru Lakshmi.",
+    "english": "My name is Lakshmi.",
+    "hint_parchment": "Use “my name is” to introduce yourself.",
+    "telugu": "నా పేరు లక్ష్మి.",
+    "audio_text": "My name is Lakshmi."
+  },
+  {
+    "level": "Beginner",
+    "category": "Food",
+    "telish": "Bhojanam siddhanga undi.",
+    "english": "The food is ready.",
+    "hint_parchment": "“Food” is one thing here, so use “is”.",
+    "telugu": "భోజనం సిద్ధంగా ఉంది.",
+    "audio_text": "The food is ready."
+  },
+  {
+    "level": "Beginner",
+    "category": "Daily life",
+    "telish": "Nenu pustakam chaduvutunnanu.",
+    "english": "I am reading a book.",
+    "hint_parchment": "For an action happening now: am + verb ending in -ing.",
+    "telugu": "నేను పుస్తకం చదువుతున్నాను.",
+    "audio_text": "I am reading a book."
+  },
+  {
+    "level": "Beginner",
+    "category": "Weather",
+    "telish": "Ee roju chaala vediga undi.",
+    "english": "It is very hot today.",
+    "hint_parchment": "Use “it” when talking about the weather.",
+    "telugu": "ఈ రోజు చాలా వేడిగా ఉంది.",
+    "audio_text": "It is very hot today."
+  },
+  {
+    "level": "Beginner",
+    "category": "Shopping",
+    "telish": "Idi entha khareedu?",
+    "english": "How much is this?",
+    "hint_parchment": "Ask about a price with “How much is…?”",
+    "telugu": "ఇది ఎంత ఖరీదు?",
+    "audio_text": "How much is this?"
+  },
+  {
+    "level": "Beginner",
+    "category": "Travel",
+    "telish": "Bassu ikkada aagutundi.",
+    "english": "The bus stops here.",
+    "hint_parchment": "The bus is one thing, so the present verb takes -s.",
+    "telugu": "బస్సు ఇక్కడ ఆగుతుంది.",
+    "audio_text": "The bus stops here."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Routine",
+    "telish": "Aame prati roju paalu taagutundi.",
+    "english": "She drinks milk every day.",
+    "hint_parchment": "With she, add -s to the present verb: drink becomes drinks.",
+    "telugu": "ఆమె ప్రతి రోజు పాలు తాగుతుంది.",
+    "audio_text": "She drinks milk every day."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Past tense",
+    "telish": "Vaaru gata vaaram mammalni kalisaaru.",
+    "english": "They met us last week.",
+    "hint_parchment": "“Met” is the past form of “meet”.",
+    "telugu": "వారు గత వారం మమ్మల్ని కలిశారు.",
+    "audio_text": "They met us last week."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Future",
+    "telish": "Nenu neeku tarvata phone chestaanu.",
+    "english": "I will call you later.",
+    "hint_parchment": "Use will + the base verb for the future.",
+    "telugu": "నేను నీకు తర్వాత ఫోన్ చేస్తాను.",
+    "audio_text": "I will call you later."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Questions",
+    "telish": "Meeru naaku sahaayam cheyagalaraa?",
+    "english": "Can you help me?",
+    "hint_parchment": "After can, use the base verb: can help.",
+    "telugu": "మీరు నాకు సహాయం చేయగలరా?",
+    "audio_text": "Can you help me?"
+  },
+  {
+    "level": "Intermediate",
+    "category": "Home",
+    "telish": "Kitiki terichi undi.",
+    "english": "The window is open.",
+    "hint_parchment": "The window is one thing, so use “is”.",
+    "telugu": "కిటికీ తెరిచి ఉంది.",
+    "audio_text": "The window is open."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Health",
+    "telish": "Aameku talanoppi undi.",
+    "english": "She has a headache.",
+    "hint_parchment": "With she, use “has” rather than “have”.",
+    "telugu": "ఆమెకు తలనొప్పి ఉంది.",
+    "audio_text": "She has a headache."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Conversation",
+    "telish": "Dayachesi mellaga maatlaadandi.",
+    "english": "Please speak slowly.",
+    "hint_parchment": "“Slowly” tells how to speak; it describes the action.",
+    "telugu": "దయచేసి మెల్లగా మాట్లాడండి.",
+    "audio_text": "Please speak slowly."
+  },
+  {
+    "level": "Intermediate",
+    "category": "Travel",
+    "telish": "Station entha dooramlo undi?",
+    "english": "How far is the station?",
+    "hint_parchment": "Use “How far” to ask about distance.",
+    "telugu": "స్టేషన్ ఎంత దూరంలో ఉంది?",
+    "audio_text": "How far is the station?"
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Plans",
+    "telish": "Meeru repu khaaleega unnaraa?",
+    "english": "Are you free tomorrow?",
+    "hint_parchment": "For a yes/no question with you, begin with “Are you…?”",
+    "telugu": "మీరు రేపు ఖాళీగా ఉన్నారా?",
+    "audio_text": "Are you free tomorrow?"
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Requests",
+    "telish": "Naaku oka kappu tea ivvandi.",
+    "english": "Please give me a cup of tea.",
+    "hint_parchment": "A cup of tea is one serving, so use “a cup”.",
+    "telugu": "నాకు ఒక కప్పు టీ ఇవ్వండి.",
+    "audio_text": "Please give me a cup of tea."
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Conversation",
+    "telish": "Mimmalni kalavadam aanandanga undi.",
+    "english": "It is nice to meet you.",
+    "hint_parchment": "This is a friendly phrase when meeting someone.",
+    "telugu": "మిమ్మల్ని కలవడం ఆనందంగా ఉంది.",
+    "audio_text": "It is nice to meet you."
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Daily life",
+    "telish": "Nenu inkaa poorthi cheyyaledu.",
+    "english": "I have not finished yet.",
+    "hint_parchment": "“Have not + past participle” describes something unfinished until now.",
+    "telugu": "నేను ఇంకా పూర్తి చేయలేదు.",
+    "audio_text": "I have not finished yet."
+  },
+  {
+    "level": "Daily conversation",
+    "category": "Feelings",
+    "telish": "Meeru chaala dayagalavaaru.",
+    "english": "You are very kind.",
+    "hint_parchment": "Use “are” with you, even when speaking to one person.",
+    "telugu": "మీరు చాలా దయగలవారు.",
+    "audio_text": "You are very kind."
+  }
+]

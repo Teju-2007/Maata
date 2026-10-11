@@ -1,0 +1,22 @@
+[
+ {"word":"morning","telugu":"ఉదయం","roman":"udayam","english":"morning","audio_text":"Good morning, Amma.","theme":"home","example":"I walk every morning."},
+ {"word":"water","telugu":"నీళ్లు","roman":"neellu","english":"water","audio_text":"Please drink some water.","theme":"kitchen","example":"I want water."},
+ {"word":"family","telugu":"కుటుంబం","roman":"kutumbam","english":"family","audio_text":"My family is kind.","theme":"family","example":"I love my family."},
+ {"word":"market","telugu":"మార్కెట్","roman":"market","english":"market","audio_text":"We are going to the market.","theme":"market","example":"The market is near our home."},
+ {"word":"doctor","telugu":"వైద్యుడు","roman":"vaidyudu","english":"doctor","audio_text":"I need to see a doctor.","theme":"doctor","example":"The doctor is kind."},
+ {"word":"ticket","telugu":"టికెట్","roman":"ticket","english":"ticket","audio_text":"I need one bus ticket.","theme":"travel","example":"Where can I buy a ticket?"},
+ {"word":"phone","telugu":"ఫోన్","roman":"phone","english":"phone","audio_text":"Please call me on my phone.","theme":"phone","example":"My phone is on the table."},
+ {"word":"bank","telugu":"బ్యాంకు","roman":"banku","english":"bank","audio_text":"The bank opens at ten.","theme":"bank","example":"I am going to the bank."},
+ {"word":"festival","telugu":"పండుగ","roman":"panduga","english":"festival","audio_text":"We celebrate the festival together.","theme":"festivals","example":"The festival is tomorrow."},
+ {"word":"friend","telugu":"స్నేహితుడు","roman":"snehitudu","english":"friend","audio_text":"My friend is coming today.","theme":"family","example":"She is my friend."},
+ {"word":"kitchen","telugu":"వంటగది","roman":"vantagadi","english":"kitchen","audio_text":"The kitchen is clean.","theme":"kitchen","example":"She is in the kitchen."},
+ {"word":"receipt","telugu":"రసీదు","roman":"raseedu","english":"receipt","audio_text":"May I have the receipt, please?","theme":"market","example":"Please keep the receipt."},
+ {"word":"appointment","telugu":"నియామకం","roman":"niyamakam","english":"appointment","audio_text":"I have a doctor's appointment today.","theme":"doctor","example":"My appointment is at noon."},
+ {"word":"address","telugu":"చిరునామా","roman":"chirunama","english":"address","audio_text":"Please write your address here.","theme":"bank","example":"What is your address?"},
+ {"word":"station","telugu":"స్టేషన్","roman":"station","english":"station","audio_text":"Where is the bus station?","theme":"travel","example":"The station is nearby."},
+ {"word":"their","telugu":"వారి","roman":"vaari","english":"their","audio_text":"Their house is beautiful.","theme":"confused","example":"Their family lives nearby.","confusedWith":"there"},
+ {"word":"there","telugu":"అక్కడ","roman":"akkada","english":"there","audio_text":"The bus is over there.","theme":"confused","example":"There is a shop nearby.","confusedWith":"their"},
+ {"word":"to","telugu":"కు","roman":"ku","english":"to","audio_text":"We are going to the market.","theme":"confused","example":"I want to learn English.","confusedWith":"too"},
+ {"word":"too","telugu":"కూడా / చాలా","roman":"kooda / chaala","english":"too","audio_text":"I want to come too.","theme":"confused","example":"This tea is too hot.","confusedWith":"to"},
+ {"word":"beautiful","telugu":"అందమైన","roman":"andamaina","english":"beautiful","audio_text":"This is a beautiful flower.","theme":"home","example":"The garden is beautiful."}
+]

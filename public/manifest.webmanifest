@@ -1,0 +1,10 @@
+{
+  "name": "Maata — Telugu-English Tutor",
+  "short_name": "Maata",
+  "description": "A warm Telugu-first English learning journey.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#151a2d",
+  "theme_color": "#151a2d",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
