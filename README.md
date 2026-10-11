@@ -1,5 +1,7 @@
 # మాట • Maata — Telugu-English Tutor
 
+[Open the live app →](https://maataforamma.netlify.app)
+
 A local-first, Telugu-friendly English practice app built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, Zustand, and Dexie. Progress stays in this browser; no account or hosted backend is required.
 
 ## Run locally
@@ -13,9 +15,9 @@ Open the local URL printed by Vite. For a production build, run `npm run build` 
 
 ## Deploy free
 
-- **Netlify:** connect the repository, set build command to `npm run build` and publish directory to `dist`. `public/_redirects` configures SPA routes.
-- **Vercel:** import the repository, use the Vite preset, build command `npm run build`, and output directory `dist`.
-- **GitHub Pages:** set Vite's `base` to the repository path and deploy `dist` with a static hosting action. BrowserRouter routes need a Pages fallback; Netlify or Vercel is simpler for this app.
+- **Netlify:** Connect the repository, set the build command to `npm run build`, and set the publish directory to `dist`. `public/_redirects` configures SPA routes.
+- **Vercel:** Import the repository, use the Vite preset, set the build command to `npm run build`, and set the output directory to `dist`.
+- **GitHub Pages:** Set Vite's `base` to the repository path and deploy `dist` with a static hosting action. BrowserRouter routes need a Pages fallback; Netlify or Vercel is simpler for this app.
 
 ## Checks
 
@@ -26,7 +28,11 @@ npm run lint
 npm run test:e2e         # Playwright journey smoke test (Chromium required)
 ```
 
-Install Playwright's Chromium once before running the browser test: `npx playwright install chromium`.
+Install Playwright's Chromium once before running the browser test:
+
+```powershell
+npx playwright install chromium
+```
 
 ## Project map
 
@@ -40,7 +46,13 @@ Install Playwright's Chromium once before running the browser test: `npx playwri
 
 ## Add practice content
 
-Edit the JSON arrays in `src/content/`. A phrase should include non-empty `telugu`, `telish`, `english`, and `audio_text` strings; it may also include a `level`, `category`, and bilingual `hint_parchment`. Vocabulary entries use `word`, `telugu`, `roman`, `english`, `audio_text`, `theme`, and `example`. Grammar entries include `title`, `telugu`, `english`, `pattern`, `question`, `options`, `answer`, and `example`. Run `npm run content:check` after changing content.
+Edit the JSON arrays in `src/content/`. A phrase should include non-empty `telugu`, `telish`, `english`, and `audio_text` strings; it may also include a `level`, `category`, and bilingual `hint_parchment`.
+
+Vocabulary entries use `word`, `telugu`, `roman`, `english`, `audio_text`, `theme`, and `example`.
+
+Grammar entries include `title`, `telugu`, `english`, `pattern`, `question`, `options`, `answer`, and `example`.
+
+Run `npm run content:check` after changing content.
 
 ## Notes
 
